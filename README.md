@@ -8,9 +8,15 @@ I am Pierfrancesco Oselin, an Italian __passionate engineer__.
 
 __TL;DR__: I love being challenged. I want to bring __automation__ and __optimization__ to any field in this world.
 
+
+
+
 ### My educational background
 -   BSc in __Industrial Engineering__ (University of Trento)
 -   MSc in __Mechatronics Engineering__ (University of Trento & Aalto University)
+
+
+
 
 ### Tools and technologies
 <p align="center">
@@ -46,6 +52,10 @@ and also
 -   Mathematica
 -   Matlab
 
+
+
+
+### My latest stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oselin&layout=compact" height="200">
     <img src="https://github-readme-stats.vercel.app/api?username=oselin" height="200">
@@ -60,6 +70,8 @@ and also
 -   Vehicle Mechatronics
 -   Industrial robotics
 -   Robot perception and actions
+
+
 
 
 ### Hobbies and interests
