@@ -77,5 +77,6 @@ and also **Maple**, **Mathematica** and **Matlab**.
 -   🪚 DIY
 -   🤖 Robotics
 -   🏋️ Gym 
+-   📷 Photography
 -   🎥 Movies, TV series and film directing
 
