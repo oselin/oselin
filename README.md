@@ -3,11 +3,11 @@
 </p>
 
 ### Welcome to my Gihub.
-<p>
+
 I am Pierfrancesco Oselin, an Italian __passionate engineer__.
 
 **TL;DR**: I love being challenged. I want to bring __automation__ and __optimization__ to any field in this world.
-</p>
+
 
 
 
