@@ -47,8 +47,8 @@ and also
 -   Matlab
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oselin&layout=compact" height="100">
-    <img src="https://github-readme-stats.vercel.app/api?username=oselin" height="100">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oselin&layout=compact" height="300">
+    <img src="https://github-readme-stats.vercel.app/api?username=oselin" height="300">
 </p>
 
 
