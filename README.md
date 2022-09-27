@@ -6,7 +6,7 @@
 
 I am Pierfrancesco Oselin, an Italian __passionate engineer__.
 
-__TL;DR__: I love being challenged. I want to bring __automation__ and __efficient smart solutions__ to any field in this world.
+__TL;DR__: I love being challenged. I want to bring __automation__ and __optimization__ to any field in this world.
 
 ### My educational background
 -   BSc in __Industrial Engineering__ (University of Trento)
