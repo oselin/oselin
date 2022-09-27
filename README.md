@@ -2,13 +2,13 @@
     <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 </p>
 
-### Welcome to my Gihub.
+## Welcome to my Gihub.
 
 I am Pierfrancesco Oselin, an Italian __passionate engineer__.
 
 __TL;DR__: I love being challenged. I want to bring automation and smart solutions to any field in this world.
 
-### My educational background
+## My educational background
 -   BSc in Industrial Engineering (University of Trento)
 -   MSc in Mechatronics Engineering (University of Trento & Aalto University)
 
