@@ -65,4 +65,5 @@ and also
 -   🪚 DIY
 -   🤖 Robotics
 -   🏋️ Gym 
+-   🎥 Movies, TV series and film directing
 
