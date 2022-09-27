@@ -3,11 +3,11 @@
 </p>
 
 ### Welcome to my Gihub.
-
+<p>
 I am Pierfrancesco Oselin, an Italian __passionate engineer__.
 
-__TL;DR__: I love being challenged. I want to bring __automation__ and __optimization__ to any field in this world.
-
+**TL;DR**: I love being challenged. I want to bring __automation__ and __optimization__ to any field in this world.
+</p>
 
 
 
@@ -47,10 +47,7 @@ __TL;DR__: I love being challenged. I want to bring __automation__ and __optimiz
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
-and also
--   Maple
--   Mathematica
--   Matlab
+and also **Maple**, **Mathematica** and **Matlab**.
 
 
 
