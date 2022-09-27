@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://github.com/oselin/oselin/blob/main/profile.PNG">
 </p>
 
 ### Welcome to my Gihub.
