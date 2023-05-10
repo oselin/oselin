@@ -12,7 +12,7 @@ I am Pierfrancesco Oselin, an Italian __passionate engineer__.
 
 
 ### My educational background
--   BSc in __Industrial Engineering__ (University of Trento)
+-   BSc in __Mechanical Engineering__ (University of Trento)
 -   MSc in __Mechatronics Engineering__ (University of Trento & Aalto University)
 
 
